@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... IT typescript 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... raotalha5430@gmail.com/ 03122123494 whatsapp
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+- ⚡ Fun fact: ... chill guy 
 
 <!---
 raotalha50u/raotalha50u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
